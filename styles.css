@@ -58,6 +58,8 @@ header {
   width: 80%;
   margin: 0 auto;
   margin-top: 50px;
+  
+  height: 500px;
 }
 
 .action-content {
@@ -89,10 +91,11 @@ header {
   border-radius: 20px;
   margin: 40px auto;
   width: 90%;
+  height: 350px;
 }
 
 .users h2 {
-  font-size: 24px;
+  font-size: 40px;
   margin-bottom: 30px;
   color: #1a1a1a;
 }
@@ -102,6 +105,7 @@ header {
   justify-content: space-around;
   flex-wrap: wrap;
   gap: 30px;
+  margin-top: 80px;
 }
 
 .stats div {
@@ -110,7 +114,7 @@ header {
 }
 
 .stats strong {
-  font-size: 28px;
+  font-size: 40px;
   color: #4f46e5;
 }
 
@@ -139,17 +143,18 @@ header {
   align-items: center;
 }
 .card {
-  height: 280px;
+  height: 350px;
   width: 350px;
   margin-top: 20px;
   padding-left: 20px;
   box-shadow: #e9e9fe 0px 0px 10px;
   border-radius: 20px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  margin-top: 80px;
 }
 .card h3 {
   font-size: 25px;
-
+ 
   margin-top: 10px;
 }
 .card p {
