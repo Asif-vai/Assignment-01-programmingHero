@@ -8,7 +8,7 @@ body {
   background-color: #f5f8ff;
 }
 header {
-  background-image: url("/Assets/Hero-bg.png");
+  background-image: url("./Assets/Hero-bg.png");
   height: 500px;
 }
 .navbar {
@@ -132,7 +132,7 @@ header {
 }
 
 .feedback h2 {
-  font-size: 34px;
+  font-size: 40px;
   color: #1a1a1a;
   text-align: center;
   font-weight: bold;
